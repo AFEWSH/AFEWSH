@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Amir Abbas Afshar
 
-<!--
-**AFEWSH/AFEWSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Backend-Focused**
 
-Here are some ideas to get you started:
+I'm a self-taught developer with 2 years of professional
+experience building and maintaining web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is backend development, database design,
+and API development & integration.
+
+I enjoy solving technical challenges, improving existing
+systems, and building independent software products.
+
+---
+
+### Tech Stack
+
+**Core Technologies**
+
+PHP · Laravel · JavaScript · MySQL · MariaDB
+
+**Frontend**
+
+HTML · CSS · Tailwind CSS · Bootstrap
+
+**Tools & Environment**
+
+Git · GitHub · Linux
+
+**Additional Experience**
+
+Vue.js · Livewire · jQuery · Alpine.js
+
+---
+
+### Professional Experience
+
+**Full-Stack Developer — Iran Technology**
+
+Working on the development and maintenance of various
+web-based systems, including tourism web services,
+reservation systems, API integrations, and general
+web application modules.
+
+- [Iran Technology](https://www.iran-tech.com/)
+- [Safar360](https://safar360.com/)
+
+---
+
+### Projects
+
+**[nisNet](https://nisnet.ir/)**
+
+An independently developed e-commerce platform,
+built from the ground up.
+
+**[Khums Tracker](https://github.com/AFEWSH/khums-tracker)**
+
+A personal finance management project built with Laravel.
+
+---
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/amir-abbas-afshar-5b3b72217/)
